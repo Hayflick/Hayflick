@@ -1,6 +1,6 @@
 ![](https://github.com/Hayflick/Hayflick/blob/main/hellothere.gif)
 
-### 👋
+
 
 - 🔭 I’m a supply chain analyst pivoting into ML engineering and research with supply chain applications. I'm currently working on finishing my master's degree in computer science, focusing on artificial intelligence, data mining, database management, and data engineering.
 
@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 👋
 -->
