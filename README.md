@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on finishing my master's degree in computer science, focused on artificial intelligence, data mining, database management, and data engineering.
+
+- 🌱 I’m currently learning database management implementation and optimization of complex data processing systems, primarily in PostgreSQL.
+
 <!--
 **Hayflick/Hayflick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
