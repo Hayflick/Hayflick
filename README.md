@@ -1,4 +1,4 @@
-![](https://github.com/Hayflick/Hayflick/blob/main/hellothere.gif)
+
 <p align="center">
   <img width="460" height="300" src="[https://github.com/Hayflick/Hayflick/blob/main/hellothere.gif)">
 </p>
