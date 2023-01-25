@@ -1,4 +1,7 @@
-![](https://github.com/Hayflick/Hayflick/blob/main/hellothere.gif)
+<p align="center">
+  <img src="https://github.com/Hayflick/Hayflick/blob/main/hellothere.gif" alt="Hayflick's custom image"/>
+</p>
+
 
 - 🔭 I’m a supply chain analyst pivoting into ML engineering and research with supply chain applications. I'm currently working on finishing my master's degree in computer science, focusing on artificial intelligence, data mining, and data engineering.
 
