@@ -4,7 +4,7 @@
 
 - 🔭 I’m a supply chain analyst pivoting into ML engineering and research with supply chain applications. I'm currently working on finishing my master's degree in computer science, focusing on artificial intelligence, data mining, and data engineering.
 
-- 🌱 In addition to working as an analyst, I'm taking two graduate courses in database management implementation and optimization of scalable data processing systems [spring 2023 semester]. 
+- 🌱 In addition to working as an analyst, I'm taking two graduate courses in database management implementation and optimization of scalable data processing systems [Spring 2023 semester]. 
 
 - 💬 Reach out if you want to collaborate on a project and need a data guy, or just want to talk about computers, math, or science!
 
