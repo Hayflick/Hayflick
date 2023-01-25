@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning database management implementation and optimization of complex data processing systems, primarily in PostgreSQL.
 
+- 💬 Reach out if you want to collaborate on a project and need a data guy, or just want to talk about computers, math, or science!
+
 <!--
 **Hayflick/Hayflick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
